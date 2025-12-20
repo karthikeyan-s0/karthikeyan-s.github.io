@@ -40,7 +40,7 @@ Project3     | Python  | Another Python project
 Installation
 ------------
 1. Clone the repository:
-   git clone https://github.com/karthikeyan-s/portfolio-website.git
+   git clone https://github.com/EDWIN-CR/karthikeyan-s.github.io.git
 2. Open index.html in your browser to view locally.
 3. Optional: Customize repoCategories in script.js to categorize your GitHub repos.
 
@@ -58,3 +58,4 @@ Contact
 Email:kishoresk201@gmail.com
 LinkedIn: https://www.linkedin.com/in/your-linkedin
 GitHub: https://github.com/EDWIN-CR
+
